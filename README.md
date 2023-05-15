@@ -5,7 +5,7 @@ A simple pantry item tracker app made using Flutter. Noti helps you keep track o
 Version 1.0.0 released and in the app store: 
 https://play.google.com/store/apps/details?id=com.jerashlant.noti
 
-Update 1.0.1+2 in review
+Version 1.0.1+2 in released
 
 ## Code
 Dart files located in the lib folder. 
